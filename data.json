@@ -1,0 +1,49 @@
+{
+    "ApartmentBuilding":{
+        "Address":{
+            "HouseNumber": 5,
+            "Street": "DataStreet",
+            "ZipCode": 5100
+        },
+        "Apartments":[
+            {
+                "Number": 1,
+                "Price": 500,
+                "Residents": [
+                    {
+                        "Name": "Bob",
+                        "Age": 43
+                    },
+                    {
+                        "Name": "Alice",
+                        "Age": 42
+                    }
+                ]
+            },
+            {
+                "Number": 2,
+                "Price": 750,
+                "Residents": [
+                    {
+                        "Name": "Jane",
+                        "Age": 43
+                    },
+                    {
+                        "Name": "William",
+                        "Age": 42
+                    }
+                ]
+            },
+            {
+                "Number": 3,
+                "Price": 1000,
+                "Residents": []
+            }
+        ]      
+    }
+}
+
+
+
+
+
